@@ -1,0 +1,92 @@
+Setor: Setor do Trabalho
+  Título: TÃ­tulo do Trabalho
+  Código: CÃ³digo do Trabalho
+  Descrição: DescriÃ§Ã£o do Trabalho
+  Salário: SalÃ¡rio do Trabalho
+  Data de Criação: 2023-10-01T12:00:00
+
+Setor: Engenharia
+  Título: Engenheiro de Software
+  Código: ENG-SW
+  Descrição: Desenvolver e manter sistemas de software.
+  Salário: 8000
+  Data de Criação: 2024-08-10T16:29:34.333649
+
+  Título: Engenheiro de Software 2
+  Código: ENG-SW
+  Descrição: Desenvolver e manter sistemas de software.
+  Salário: 8000
+  Data de Criação: 2024-08-10T16:30:25.458016
+
+  Título: Engenheiro de Software 3
+  Código: ENG-SW
+  Descrição: Desenvolver e manter sistemas de software.
+  Salário: 8000
+  Data de Criação: 2024-08-10T16:31:27.223815
+
+  Título: Engenheiro de Software 4
+  Código: ENG-SW
+  Descrição: Desenvolver e manter sistemas de software.
+  Salário: 8000
+  Data de Criação: 2024-08-10T16:39:41.932899
+
+  Título: Engenheiro de Software 5
+  Código: ENG-SW
+  Descrição: Desenvolver e manter sistemas de software.
+  Salário: 8000
+  Data de Criação: 2024-08-10T23:40:49.812133
+  Matrícula: 151826
+
+  Título: Engenheiro de Software 5
+  Código: ENG-SW
+  Descrição: Desenvolver e manter sistemas de software.
+  Salário: 8000
+  Data de Criação: 2024-08-10T23:41:49.153539
+  Matrícula: 151826
+  idinterno: 3232323
+
+Setor: 8000
+  Título: Operador de Empilhadeira
+  Código: 15578
+  Descrição: Operador de empilhadeira com ensino técnico, carteira de motorista e disponibilidade de viagem a trabalho.
+  Salário: 8000.0
+  Data de Criação: 2024-08-10T16:52:10.400095
+
+Setor: 3000
+  Título: Auxiliar de Escritorio
+  Código: 1784
+  Descrição: Auxiliar na limpeza no geral.
+  Salário: 3000.0
+  Data de Criação: 2024-08-10T17:02:10.110171
+
+Setor: 5000
+  Título: Auditor Fiscal
+  Código: 14785
+  Descrição: Estamos buscando um Auditor Fiscal altamente qualificado para se juntar à nossa equipe. O candidato ideal terá experiência em auditoria fiscal e uma sólida compreensão das leis e regulamentos fiscais. O Auditor Fiscal será responsável por revisar, analisar e verificar registros financeiros para garantir conformidade com a legislação tributária vigente.
+  Salário: 5000.0
+  Data de Criação: 2024-08-10T17:11:56.931203
+  Matricula: 0005794
+
+  Título: Auditor Fiscal
+  Código: 147852
+  Descrição: Estamos buscando um Auditor Fiscal altamente qualificado para se juntar à nossa equipe. O candidato ideal terá experiência em auditoria fiscal e uma sólida compreensão das leis e regulamentos fiscais. O Auditor Fiscal será responsável por revisar, analisar e verificar registros financeiros para garantir conformidade com a legislação tributária vigente.
+  Salário: 5000.0
+  Data de Criação: 2024-08-10T17:12:34.135845
+  Matricula: 000666
+
+Setor: 7000
+  Título: Titulo teste vaga
+  Código: 12345
+  Descrição: Descrição da vaga.
+  Salário: 7000.0
+  Data de Criação: 2024-08-10T23:36:37.683173
+  matricula1: 456734
+
+Setor: 9000
+  Título: Titulo teste vaga 1
+  Código: 123456
+  Descrição: Descrição da vaga.
+  Salário: 9000.0
+  Data de Criação: 2024-08-10T23:54:23.738004
+  Matrícula: 6666
+

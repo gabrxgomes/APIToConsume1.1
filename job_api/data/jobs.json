@@ -1,0 +1,132 @@
+[
+    {
+        "id": "job_id_value",
+        "created_at": "2023-10-01T12:00:00",
+        "title": "T\u00c3\u00adtulo do Trabalho",
+        "code": "C\u00c3\u00b3digo do Trabalho",
+        "description": "Descri\u00c3\u00a7\u00c3\u00a3o do Trabalho",
+        "salary": "Sal\u00c3\u00a1rio do Trabalho",
+        "sector": "Setor do Trabalho"
+    },
+    {
+        "id": "6ff7e642-46e0-4e2b-9394-341017f4738a",
+        "created_at": "2024-08-10T16:29:34.333649",
+        "title": "Engenheiro de Software",
+        "code": "ENG-SW",
+        "description": "Desenvolver e manter sistemas de software.",
+        "salary": 8000,
+        "sector": "Engenharia"
+    },
+    {
+        "id": "8ee9070a-bd6e-4f9f-8e91-8531157e92cd",
+        "created_at": "2024-08-10T16:30:25.458016",
+        "title": "Engenheiro de Software 2",
+        "code": "ENG-SW",
+        "description": "Desenvolver e manter sistemas de software.",
+        "salary": 8000,
+        "sector": "Engenharia"
+    },
+    {
+        "id": "411379a8-dcc1-41fb-8058-71ed5f893bbc",
+        "created_at": "2024-08-10T16:31:27.223815",
+        "title": "Engenheiro de Software 3",
+        "code": "ENG-SW",
+        "description": "Desenvolver e manter sistemas de software.",
+        "salary": 8000,
+        "sector": "Engenharia"
+    },
+    {
+        "id": "9cf799d8-4f04-4e60-841c-44379f066139",
+        "created_at": "2024-08-10T16:39:41.932899",
+        "title": "Engenheiro de Software 4",
+        "code": "ENG-SW",
+        "description": "Desenvolver e manter sistemas de software.",
+        "salary": 8000,
+        "sector": "Engenharia"
+    },
+    {
+        "id": "6d833098-b907-4624-abfb-e18d9515e693",
+        "created_at": "2024-08-10T16:52:10.400095",
+        "title": "Operador de Empilhadeira",
+        "code": "15578",
+        "description": "Operador de empilhadeira com ensino t\u00e9cnico, carteira de motorista e disponibilidade de viagem a trabalho.",
+        "salary": 8000.0,
+        "sector": "8000"
+    },
+    {
+        "id": "ccbfa190-2ca8-4176-b036-dad7f4ac1a38",
+        "created_at": "2024-08-10T17:02:10.110171",
+        "title": "Auxiliar de Escritorio",
+        "code": "1784",
+        "description": "Auxiliar na limpeza no geral.",
+        "salary": 3000.0,
+        "sector": "3000"
+    },
+    {
+        "title": "Auditor Fiscal",
+        "code": "14785",
+        "description": "Estamos buscando um Auditor Fiscal altamente qualificado para se juntar \u00e0 nossa equipe. O candidato ideal ter\u00e1 experi\u00eancia em auditoria fiscal e uma s\u00f3lida compreens\u00e3o das leis e regulamentos fiscais. O Auditor Fiscal ser\u00e1 respons\u00e1vel por revisar, analisar e verificar registros financeiros para garantir conformidade com a legisla\u00e7\u00e3o tribut\u00e1ria vigente.",
+        "salary": 5000.0,
+        "sector": "5000",
+        "created_at": "2024-08-10T17:11:56.931203",
+        "custom_fields": {
+            "Matricula": "0005794"
+        }
+    },
+    {
+        "title": "Auditor Fiscal",
+        "code": "147852",
+        "description": "Estamos buscando um Auditor Fiscal altamente qualificado para se juntar \u00e0 nossa equipe. O candidato ideal ter\u00e1 experi\u00eancia em auditoria fiscal e uma s\u00f3lida compreens\u00e3o das leis e regulamentos fiscais. O Auditor Fiscal ser\u00e1 respons\u00e1vel por revisar, analisar e verificar registros financeiros para garantir conformidade com a legisla\u00e7\u00e3o tribut\u00e1ria vigente.",
+        "salary": 5000.0,
+        "sector": "5000",
+        "created_at": "2024-08-10T17:12:34.135845",
+        "custom_fields": {
+            "Matricula": "000666"
+        }
+    },
+    {
+        "title": "Titulo teste vaga",
+        "code": "12345",
+        "description": "Descri\u00e7\u00e3o da vaga.",
+        "salary": 7000.0,
+        "sector": "7000",
+        "created_at": "2024-08-10T23:36:37.683173",
+        "custom_fields": {
+            "matricula1": "456734"
+        }
+    },
+    {
+        "title": "Engenheiro de Software 5",
+        "code": "ENG-SW",
+        "description": "Desenvolver e manter sistemas de software.",
+        "salary": 8000,
+        "sector": "Engenharia",
+        "created_at": "2024-08-10T23:40:49.812133",
+        "custom_fields": {
+            "matricula": 151826
+        }
+    },
+    {
+        "title": "Engenheiro de Software 5",
+        "code": "ENG-SW",
+        "description": "Desenvolver e manter sistemas de software.",
+        "salary": 8000,
+        "sector": "Engenharia",
+        "created_at": "2024-08-10T23:41:49.153539",
+        "custom_fields": {
+            "matricula": 151826,
+            "idinterno": 3232323
+        }
+    },
+    {
+        "title": "Titulo teste vaga 1",
+        "code": "123456",
+        "description": "Descri\u00e7\u00e3o da vaga.",
+        "salary": 9000.0,
+        "sector": "9000",
+        "created_at": "2024-08-10T23:54:23.738004",
+        "custom_fields": {
+            "matricula": "6666"
+        }
+    }
+]

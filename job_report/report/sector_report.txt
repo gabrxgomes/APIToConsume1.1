@@ -1,0 +1,22 @@
+Setor: Setor do Trabalho
+  - CÛdigo: C√≥digo do Trabalho, TÌtulo: T√≠tulo do Trabalho, Sal·rio: Sal√°rio do Trabalho, Criado em: 2023-10-01T12:00:00
+
+Setor: Engenharia
+  - CÛdigo: ENG-SW, TÌtulo: Engenheiro de Software, Sal·rio: 8000, Criado em: 2024-08-10T16:29:34.333649
+  - CÛdigo: ENG-SW, TÌtulo: Engenheiro de Software 2, Sal·rio: 8000, Criado em: 2024-08-10T16:30:25.458016
+  - CÛdigo: ENG-SW, TÌtulo: Engenheiro de Software 3, Sal·rio: 8000, Criado em: 2024-08-10T16:31:27.223815
+  - CÛdigo: ENG-SW, TÌtulo: Engenheiro de Software 4, Sal·rio: 8000, Criado em: 2024-08-10T16:39:41.932899
+
+Setor: 8000
+  - CÛdigo: 15578, TÌtulo: Operador de Empilhadeira, Sal·rio: 8000.0, Criado em: 2024-08-10T16:52:10.400095
+
+Setor: 3000
+  - CÛdigo: 1784, TÌtulo: Auxiliar de Escritorio, Sal·rio: 3000.0, Criado em: 2024-08-10T17:02:10.110171
+
+Setor: 5000
+  - CÛdigo: 14785, TÌtulo: Auditor Fiscal, Sal·rio: 5000.0, Criado em: 2024-08-10T17:11:56.931203
+  - CÛdigo: 147852, TÌtulo: Auditor Fiscal, Sal·rio: 5000.0, Criado em: 2024-08-10T17:12:34.135845
+
+Setor: 7000
+  - CÛdigo: 12345, TÌtulo: Titulo teste vaga, Sal·rio: 7000.0, Criado em: 2024-08-10T23:36:37.683173
+
